@@ -106,7 +106,3 @@ Field types supported:
 - `input_number`: Number input
 - `select`: Dropdown select (requires 'options' array)
 - `textarea`: Multiline text area
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
